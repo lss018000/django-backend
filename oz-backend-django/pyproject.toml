@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "django-backend"
+name = "oz-backend-django"
 version = "0.1.0"
 description = ""
 authors = ["lss018000 <lss018000@gmail.com>"]
